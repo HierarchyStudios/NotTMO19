@@ -1,5 +1,6 @@
 # Not TMO19 Logo
 This is not a 19th Thailand Mathematics Olympiad Logo (but I did submitted and didn't pass the first round)
+The logo was made in Adobe Illustrator 2022, since it's the requirement of the competition
 
 ### Submissions
 
@@ -7,12 +8,12 @@ I submitted two files on submission:
 
 **TMOFinal.pdf** -- This contains the logo that *would* be used if it get submitted.
 
-[[TMOFinal.pdf]] [[TMOFix3.ai]]
+[PDF](TMOFinal.pdf) [Source File (.AI)](TMOFix3.ai)
 
 **TMO19Identity.pdf** -- This contains the identity guidelines on how the logo *would* be used. 
 
 
-[[TMO19Identity.pdf]] [[TMO19Identity.ai]]
+[PDF](TMO19Identity.pdf) [Source File (.AI)](TMO19Identity.ai)
 
 ## Intended Philosophy
 

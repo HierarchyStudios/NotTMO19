@@ -19,7 +19,8 @@ I submitted two files on submission:
 
 ### Inspiration and Core Principles 
 - The logo represents collaboration of all of the maths community and also the symbol sigma, meaning that maths is the result of the world's collaboration. 
-- The logo theme colour represents Thailand, the host of the event and the place which is situated in. ● The “O” in the logo represents the pride of mathematics (represented as a medal). 
+- The logo theme colour represents Thailand, the host of the event and the place which is situated in. 
+- The “O” in the logo represents the pride of mathematics (represented as a medal). 
 - The logo uses the font ‘Kanit’, which represents the core principle of the universe and maths, it is also modern and easy to read representing Thailand's modernity.
 - The “T” extends and covers the rest of the logo, representing the house, the place where this competition will be held. 
  
